@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434790995246",
+    "project_id": "paging3-1edcf",
+    "storage_bucket": "paging3-1edcf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434790995246:android:e02aec18fbfb069fae96bf",
+        "android_client_info": {
+          "package_name": "com.drcmind.firestorepaging3withcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434790995246-fpe56ttc435tdlh5bc0ar60uijaupsq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM0nkyaJVTK4PbnRHGh40ugvWEXP6ZyIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434790995246-fpe56ttc435tdlh5bc0ar60uijaupsq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
